@@ -1,0 +1,1 @@
+Aby włączyć program na CPU, należy podać byle jaki argument, wywołanie bezargumentowe włączy program na GPU. Żeby zastopować program należy kliknąć spację. Program na CPU jest bardzo wolny, zalecane jest podanie małej ilości cząsteczek <= 1000 w pliku GlobalVariables.hpp. Plik .exe znajduje się w x64/Release/Electrostatic.exe.
